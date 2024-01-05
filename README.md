@@ -1,6 +1,6 @@
 # ea_5
 
-A new Flutter project.
+EA5.2 Any Package Application
 
 ## Getting Started
 
